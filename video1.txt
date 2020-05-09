@@ -1,0 +1,21 @@
+Esimene video
+
+1. Miks peaks programmeerimist õppima - 
+    * Et mõista mis toimub arvuti sees
+    * Programmeerimine avab uue viisi probleemide lahendamikses
+    * Tööturg on lai ning palgad on väga head
+    * Õpi progema, et teha enda äpp või rakendus reaalsuseks.
+
+2. Miks Python - 
+    * Hea keel millega alustada, kuna selle süntaks on lihtne
+    * Pythonil on väga palju rakendusvõimalusi, sellega saab teha kõike veebilehtedest andmeteaduse ja tehisintellektini
+    * Python on laialt kasutusel, näiteks Google, Facebook, Amazon ja NASA
+
+3. Paigaldame Thonny - 
+    Miks Thonny - väga hea keskkond algajatele (mitte karta sõna algaja, varsti hakkame kasutama keerulisemaid ning lahendamaid keskkondi.)
+                - Thonny on arendatud Eestis, Tartu Ülikoolis
+
+4. Lõpp - 
+    Räägi mis endasi tuleb,
+
+Eero Ääremaa - KoodiKlubi

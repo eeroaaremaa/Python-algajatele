@@ -1,0 +1,56 @@
+ROADMAP
+
+1. Alustamine ja paigaldamine - 
+    miks proge?
+    miks python?
+    Thonny paigaldamine
+
+2. Muutujad -
+    muutujate loomine 
+    muutujate vaatamine Thonnys
+    muutujate väljastamine konsooli
+    muutujate tüübid- (int, float, bool, str jne)
+    muutujate üle kirjutamine
+ 
+3. Listid - 
+    Listide loomine
+    info saamine listist (lugemine algab nullist)
+
+
+4. Avaldised - 
+    avaldiste trükkimine
+    avaldiste salvestamine
+    erinevate avaldiste näited
+
+5. Tingimuslaused - 
+    Kui-lause ehk if statement
+    else if ja else
+
+    harjutus: kuude trükkimine vastavalt numbrile
+
+6. Korduslaused ehk tsüklid - 
+    while-tsükkel
+    näide while tsükkli tööst (nt liida kokku listi arvud)
+    kasutajalt sisendi saamine input abil
+    näide kasutja sisendi ja while true tsükli kasutamisest (tuleb näidata ka break-i)
+
+7. for-tsükkel ja kahekordne list
+    Näidata ära kuidas toimib
+    harjutusülesanne luua
+    kahekordse listi visuaalne näide
+    kahekordese listi näide
+
+8. Funktsioonid
+    Miks kasutada Funktsiooni
+    Näide funktsiooni kasutamisest
+    mida teeb retrun ja kuidas seda kasutada
+
+9. Failidest info lugemine
+    Failis on kahekordne list ning oleks vaja iga rea summa leida ning maksimaalne tagastada.
+    Näitab kuidas lugeda failist infot ja salvestame selle info kahekordsesse listi
+
+10. FizzBuzz ülesande näide
+    1. tutvusta ülesannet ja selle kirjeldust
+    2. lihtne näidislahendus
+    3. näidata selle lahenduse vigu
+    4. parandada need vead ja näidata siis programmi tööd.
